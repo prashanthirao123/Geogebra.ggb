@@ -1,0 +1,31 @@
+Open GeoGebra and choose Graphing Perspective
+Hide the Grid, and Axes of the graph
+Using View menu, check the Input Bar
+Using Input Box write a=1, and Press Enter Key
+Using Input Box write b=1, and Press Enter Key
+Using Input Box write c=1, and Press Enter Key
+Using Input Box write d=1, and Press Enter Key
+Using Input Box write ans=1, and Press Enter Key
+Using Input Box write number1=10a+b, and Press Enter Key
+Using Input Box write number2=10c+d, and Press Enter Key
+Using Input Box write Answer=numbwe1+number2, and Press Enter Key
+Using Text tool, select num1 as object, Press Enter Key
+Again, write + sign and select num2 as object, then click on Ok button
+Set the position of text
+Using Input Box button, create Answer= caption and select ans as linked object
+Set the position of Input Box “Answer=”
+Using Text tool, write Congratulation, Well Done. And click Ok button.
+Adjust the position of the object “Congratulation”
+Right Click on “Congratulation” text and go to object properties
+Click on Advance Tab
+Write the text “Answer ≟ ans” in the condition to show object box
+Using Text tool, write “Try Here”. And click Ok button.
+Adjust the position of the object Congratulation
+Right Click on “Try Here” text and go to object properties
+Click on Advance Tab
+Write the text “Answer ≠ ans” in the condition to show object box
+Using Botton tool, create a button “New Question”
+Set the GeoGebra Script as below
+Adjust the position of all objects as below
+Apply the Absolute position on screen feature to all objects
+Apply the Graphics Formatting features as below
